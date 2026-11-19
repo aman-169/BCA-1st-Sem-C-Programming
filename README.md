@@ -1,3 +1,5 @@
+# Leetcode profile link- (https://leetcode.com/u/aman_169/)
+
 # BCA 1st Semester - C Programming Assignment
 
 ## Project Overview
@@ -34,5 +36,3 @@ AMAN YADAV
 
 ## Purpose
 This project is created for academic learning and programming practice.
-
-Leetcode profile link- (https://leetcode.com/u/aman_169/)
