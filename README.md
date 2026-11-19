@@ -6,9 +6,6 @@ This repository contains 10 C programming problems solved on LeetCode as part of
 ## Programming Language
 - C Language
 
-## Platform
-- LeetCode
-
 ## Problems Included
 
 1. Two Sum
@@ -33,7 +30,9 @@ This repository contains 10 C programming problems solved on LeetCode as part of
 Each problem is stored in a separate C source file.
 
 ## Author
-BCA 1st Semester Student
+AMAN YADAV 
 
 ## Purpose
 This project is created for academic learning and programming practice.
+
+Leetcode profile link- (https://leetcode.com/u/aman_169/)
