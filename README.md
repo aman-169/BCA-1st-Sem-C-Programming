@@ -31,7 +31,7 @@ This repository contains 10 C programming problems solved on LeetCode as part of
 Each problem is stored in a separate C source file.
 
 ## Author
-AMAN YADAV
+AMAN YADAV 
 BCA 1st Semester, Dr. Harisingh Gour Vishwavidyalaya, Sagar
 
 ## Purpose
