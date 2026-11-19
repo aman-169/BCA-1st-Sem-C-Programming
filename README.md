@@ -1,4 +1,4 @@
- Leetcode profile link- (https://leetcode.com/u/aman_169/)
+**LeetCode Profile:** [aman_169](https://leetcode.com/u/aman_169/)
 
 # BCA 1st Semester - C Programming Assignment
 
@@ -9,7 +9,6 @@ This repository contains 10 C programming problems solved on LeetCode as part of
 - C Language
 
 ## Problems Included
-
 1. Two Sum
 2. Remove Duplicates from Sorted Array
 3. Move Zeroes
@@ -32,7 +31,8 @@ This repository contains 10 C programming problems solved on LeetCode as part of
 Each problem is stored in a separate C source file.
 
 ## Author
-AMAN YADAV 
+AMAN YADAV
+BCA 1st Semester, Dr. Harisingh Gour Vishwavidyalaya, Sagar
 
 ## Purpose
 This project is created for academic learning and programming practice.
